@@ -65,7 +65,7 @@ We are **DevZore Agency**, a full-service digital solutions company specializing
 - Visual Studio Code
 - Postman
 - npm
-- Figma (Basic)
+- Figma
 - Canva
 - Chrome DevTools
 
